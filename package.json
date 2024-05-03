@@ -1,0 +1,26 @@
+{
+  "name": "useless-bot-4.1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zasi#2906",
+  "license": "ISC",
+  "dependencies": {
+    "@discord-player/extractor": "^4.4.4",
+    "@discordjs/opus": "^0.9.0",
+    "@discordjs/rest": "^1.5.0",
+    "@discordjs/ws": "^0.6.0",
+    "discord-player": "^6.6.4",
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "ffmpeg-static": "^5.1.0",
+    "genius-lyrics": "^4.4.3",
+    "https-proxy-agent": "^7.0.2",
+    "pino": "^8.15.0",
+    "pino-pretty": "^10.2.0",
+    "yt-stream": "^1.4.12"
+  }
+}
