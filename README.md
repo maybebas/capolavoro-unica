@@ -10,4 +10,5 @@
 - Invitare il bot in un server usando OAuth2
 #### Installazione di NodeJS
 - Scaricare NodeJS (verificare il corretto funzionamento aprendo il prompt comandi e digitando "node -v")
-- Recarsi nella directory del bot e digitare "node deploy.js", successivamente digitare "node ."
+- Recarsi nella directory del bot tramite il command prompt e digitare "npm i"
+- Sempre nel prompt digitare "node deploy.js" e successivamente "node ."
